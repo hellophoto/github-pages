@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Flips 'n Flow: Welcome to my blog!
 ---
